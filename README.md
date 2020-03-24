@@ -7,21 +7,21 @@ Problem: Given an array of scores, find rank of Alice for her score. Same rank i
          with given Alice's scores to rank her score.
 
 Inputs: Inputs are in four lines and in given order. </br>
-        1. Input number of scores.\n
-        2. Space separated scores.\n
-        3. Input number of Alice's scores.\n
-        4. Space separated Alice's scores.\n
+        1. Input number of scores.</br>
+        2. Space separated scores.</br>
+        3. Input number of Alice's scores.</br>
+        4. Space separated Alice's scores.</br>
         
 For example:
-Input:\n
+Input:</br>
 
-4\n
-100 50 50 30\n
-2\n
-105 50\n
+4</br>
+100 50 50 30</br>
+2</br>
+105 50</br>
 
-Output:\n
-1\n
+Output:</br>
+1</br>
 2
 
         
