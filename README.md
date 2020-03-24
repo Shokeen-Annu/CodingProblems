@@ -6,7 +6,7 @@ Problem: Given an array of scores, find rank of Alice for her score. Same rank i
          100 50 50 30, then scores will have rank as rank 1 to score 100, rank 2 to score 50 and rank 3 to score 30. These ranks will be compared
          with given Alice's scores to rank her score.
 
-Inputs: Inputs are in four lines and in given order.\n
+Inputs: Inputs are in four lines and in given order. </br>
         1. Input number of scores.\n
         2. Space separated scores.\n
         3. Input number of Alice's scores.\n
