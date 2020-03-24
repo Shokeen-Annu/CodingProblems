@@ -1,0 +1,11 @@
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\bin\Debug\netcoreapp2.1\CodingProblems.deps.json
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\bin\Debug\netcoreapp2.1\CodingProblems.runtimeconfig.json
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\bin\Debug\netcoreapp2.1\CodingProblems.runtimeconfig.dev.json
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\bin\Debug\netcoreapp2.1\CodingProblems.dll
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\bin\Debug\netcoreapp2.1\CodingProblems.pdb
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\obj\Debug\netcoreapp2.1\CodingProblems.csprojAssemblyReference.cache
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\obj\Debug\netcoreapp2.1\CodingProblems.csproj.CoreCompileInputs.cache
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\obj\Debug\netcoreapp2.1\CodingProblems.AssemblyInfoInputs.cache
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\obj\Debug\netcoreapp2.1\CodingProblems.AssemblyInfo.cs
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\obj\Debug\netcoreapp2.1\CodingProblems.dll
+C:\Users\AnnuShokeen\source\repos\CodingProblems\CodingProblems\obj\Debug\netcoreapp2.1\CodingProblems.pdb
