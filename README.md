@@ -25,5 +25,18 @@ Output:</br>
 1</br>
 2
 
+<b>2. Foregone Solution </b>
+
+It is a problem provided by Google Code Jam 2019 in qualiication round. Please click the link below to read the problem.</br>
+https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705
+</br>
+
+<b>3. Cryptopangrams </b>
+
+It is a problem provided by Google Code Jam 2019 in qualiication round. Please click the link below to read the problem.</br>
+https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705
+</br>
+
+
         
    
